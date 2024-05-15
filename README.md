@@ -15,7 +15,7 @@ This repository contains the code and documentation for the Raksha Pipes assignm
 ## 📝 Instructions
 ### Step 1: Generate Data and Design Database
 #### Data Generation
-- Run the Python scripts in the `data_generation` folder to generate fake data for the Raksha Pipes database.
+- Run the Python scripts in the data_generation folder to generate fake data for the Raksha Pipes database.
 - Ensure that the data includes product types, customer details, and sales information.
 
 #### Database Design
