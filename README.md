@@ -38,7 +38,8 @@ This repository contains the code and documentation for the Raksha Pipes assignm
 - Use the Power BI file in the `power_bi_dashboard` folder to create an interactive dashboard.
 - Include visualizations for sales trends, product performance, and customer profiles.
 - Ensure ease of use and allow users to explore the data.
-- ![image](https://github.com/Madhugupta95/Raksha_Pipes/assets/117964914/fb3ced99-8968-4c83-99b2-2aaf1cea3838)
+![image](https://github.com/Madhugupta95/Raksha_Pipes/assets/117964914/ba3db6c5-ce8f-4d96-b48c-fe8431b49ce6)
+
 
 
 ## 📊 Presentation
